@@ -39,5 +39,5 @@ The analysis includes specific preprocessing steps to ensure data quality:
 * Senior Citizen Churn Percentage Analysis (Stacked Bar Charts).
 
 ---
-**Developed by:** [Your Name]  
-**Portfolio/Contact:** [Your Links]
+**Developed by:** [Basir Ahammed]  
+**Portfolio/Contact:** [https://www.linkedin.com/in/basir-ahammed-mandal-b75935268/]
